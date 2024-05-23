@@ -1,14 +1,14 @@
-import Header from "./components/Header.jsx";
-import Meals from "./components/Meals.jsx";
 
+import Header from "./components/Layout/Header.jsx";
+import Meals from "./components/Meals/Meals.jsx";
 
 function App() {
-  return (
-    <>
-      <Header/>
-      <Meals/>
-    </>
-  );
+    return (
+        <>
+            <Header/>
+            <Meals/>
+        </>
+    );
 }
 
 export default App;

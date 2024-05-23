@@ -54,6 +54,19 @@ wrap this data into a separate function, call it `fetchMeals()`. Next set it as 
 
 - add the `Meals` component to `App.js`
 
+## 3rd commit
+
+- create a `MealItem` component
+- one meal item per loaded meal
+- export a default component funtion to start the file ...
+- return the markup in that list of meals
+- import a `prop` such as `name`, `price` or `meal` only for all of the  properties via the curly brackets of the `MealItem` function
+- Add `MealItem` component to `Meals` with the key `{meal.id}` then `meal` prop set to the `meal` prop in the loop so the data works
+
+
+###  Debugging
+  At this point button rendering and paths resolved
+
 </td>
 </tr>
 </table>
