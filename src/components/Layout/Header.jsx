@@ -1,3 +1,4 @@
+import Button from "../UI/Button";
 import logo from "/src/assets/logo.jpg";
 const Header = () => {
     return (
@@ -6,7 +7,7 @@ const Header = () => {
                 <img src={logo} alt="logo image"/>
                 <h1>Quick Food </h1>
             </div>
-            <button textOnly >Cart(0)</button>
+            <Button textOnly >Cart(0)</Button>
 
         </header>
     )
