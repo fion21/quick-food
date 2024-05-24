@@ -35,11 +35,15 @@
 [DEMO](https://moonlit-marigold-e36de1.netlify.app)
 
 
-## 4th commit
+## 5th commit
 
-- created a `Button` component
-- changed the `css` to get the logo larger
-- css price was a higher rem
+- created a `Store` folder
+- created a `CartContent` component
+- dealing with button `on click` event handling
+- cartReducer `state, action`
+- existingCartItemIndex `state.items.findIndex()`, a method build in to JS will update the cart
+- `Cart` component
+- `UserProgressProvider` component
 
 
 </td>
