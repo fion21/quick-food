@@ -19,7 +19,7 @@
 <tr>
 <td>
 
-**Built With**
+###Built With**
 
 * HTML5, CSS3, Javascript ES6
 * React.js
@@ -220,6 +220,3 @@ commit 4
 - existingCartItemIndex `state.items.findIndex()`, a method build in to JS will update the cart
 - `Cart` component
 - `UserProgressProvider` component
-
-
-
