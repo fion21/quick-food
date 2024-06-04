@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/59cbd1f7-523e-48b1-a279-642fc19dbefd/deploy-status)](https://app.netlify.com/sites/moonlit-marigold-e36de1/deploys)
-
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![PR Welcome][pr-welcome-shield]](#contributing) -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
