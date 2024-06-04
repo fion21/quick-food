@@ -31,7 +31,8 @@
 * React.js
 * Styled Components
 
-[DEMO](https://moonlit-marigold-e36de1.netlify.app)
+[DEMO](https://github.com/fion21/quick-food/assets/31405973/b17f27db-22ec-4bf4-ac97-bfc4c37538b0)
+
 
 ## 1st commit
 
@@ -60,7 +61,6 @@ wrap this data into a separate function, call it `fetchMeals()`. Next set it as 
 - return the markup in that list of meals
 - import a `prop` such as `name`, `price` or `meal` only for all of the  properties via the curly brackets of the `MealItem` function
 - Add `MealItem` component to `Meals` with the key `{meal.id}` then `meal` prop set to the `meal` prop in the loop so the data works
-
 
 ## 4th commit
 
